@@ -18,4 +18,4 @@ Deploy - link do projeto
 
 Link do projeto: O projeto se encontra hospedado nesse [link](https://ping-pong-santos-git-main-williams-projects-e9055a33.vercel.app/) através do Vercel.app.
 
-<img src="assets/campo.jpg">
+<img src="assets/campo2.avif">
