@@ -14,7 +14,7 @@ O jogo começa quando o player clicar em iniciar jogo, o objetivo do jogo é def
 Todas as Funcionalidades do Jogo:
 Para movimentar o Pad, precisa pressionar a seta cima ou seta baixo.
 
-Deploy - link do projeto
+Deploy - link do projeto:
 
 Link do projeto: O projeto se encontra hospedado nesse [link](https://ping-pong-santos-git-main-williams-projects-e9055a33.vercel.app/) através do Vercel.app.
 
